@@ -1,0 +1,6 @@
+.env
+*.bak
+*.db
+__pycache__/
+token.txt
+books_fast.csv
